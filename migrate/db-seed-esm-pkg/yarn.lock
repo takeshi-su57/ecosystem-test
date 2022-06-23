@@ -772,22 +772,22 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@prisma/client@3.16.0-dev.52":
-  version "3.16.0-dev.52"
-  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-3.16.0-dev.52.tgz#43311e4f35e90563044273677aa46938804b96d8"
-  integrity sha512-3jjj2HCzPjbbxPkS5Vqym7asVAu+wZj6Ymw5bBg2/Dc1PXtraSJfzmKE7AsnA1ztLlBWywuSpEyEQVcWXadYOQ==
+"@prisma/client@3.16.0-dev.88":
+  version "3.16.0-dev.88"
+  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-3.16.0-dev.88.tgz#bd0b43620d617255ba9beb49de04e4723ea06349"
+  integrity sha512-qlN46WliIVA1HFKUUrbdDp2pARC42BaxvoivXEv37X74MkKuOtfLeJyRX/BlrVo+fbK3qQeuw1F7efzs2H+WDw==
   dependencies:
-    "@prisma/engines-version" "3.16.0-14.4908cf1dde73491641a0a47fe5f3bebd2430350c"
+    "@prisma/engines-version" "3.16.0-43.81a0ee489e5f8c8ce98440028ea9050092430503"
 
-"@prisma/engines-version@3.16.0-14.4908cf1dde73491641a0a47fe5f3bebd2430350c":
-  version "3.16.0-14.4908cf1dde73491641a0a47fe5f3bebd2430350c"
-  resolved "https://registry.yarnpkg.com/@prisma/engines-version/-/engines-version-3.16.0-14.4908cf1dde73491641a0a47fe5f3bebd2430350c.tgz#37c94c3a9a18ec2b1c76f026ed21b1cd374a466c"
-  integrity sha512-mfEJf7qJ3Cndryjv12MQPYWwE6j2muk8KHJiLhvXq9fYIQ4/ACp70n2P1UDotCSyqur0G4VfwA8iHN10d9MnLg==
+"@prisma/engines-version@3.16.0-43.81a0ee489e5f8c8ce98440028ea9050092430503":
+  version "3.16.0-43.81a0ee489e5f8c8ce98440028ea9050092430503"
+  resolved "https://registry.yarnpkg.com/@prisma/engines-version/-/engines-version-3.16.0-43.81a0ee489e5f8c8ce98440028ea9050092430503.tgz#c6e3275811ee5890cb0bd3eaefb933b389a86d7c"
+  integrity sha512-Rehi9FsVYC9HVogAqpaM/gAh7LjxPVgzUshKne5nmLiZRKd0crHfbt03CUrgcyRCC+shQTErd04rqeMfWPLMYw==
 
-"@prisma/engines@3.16.0-14.4908cf1dde73491641a0a47fe5f3bebd2430350c":
-  version "3.16.0-14.4908cf1dde73491641a0a47fe5f3bebd2430350c"
-  resolved "https://registry.yarnpkg.com/@prisma/engines/-/engines-3.16.0-14.4908cf1dde73491641a0a47fe5f3bebd2430350c.tgz#07ce33c2850677faefd676316c7c85cd65df84aa"
-  integrity sha512-Rndf7mV+s38ZV+OhzBIc9NLntURtQ8bY1sVT+o4XxoWww/OrJURfCfwB9JesOIXL6XSXqcAY2dG6eI8GQTJyLA==
+"@prisma/engines@3.16.0-43.81a0ee489e5f8c8ce98440028ea9050092430503":
+  version "3.16.0-43.81a0ee489e5f8c8ce98440028ea9050092430503"
+  resolved "https://registry.yarnpkg.com/@prisma/engines/-/engines-3.16.0-43.81a0ee489e5f8c8ce98440028ea9050092430503.tgz#1684033a674a6f61ff14ed599ad9265734714c34"
+  integrity sha512-kmYUaHf1lAWGqDJPDZAr51I+GAk78zA+QbAfWyPGU8OaERM5d2oDVwLsj+XQMJD5a19WjSCXAMZ/oh9Uh80GKA==
 
 "@sinclair/typebox@^0.23.3":
   version "0.23.5"
@@ -2149,10 +2149,10 @@ pkg-dir@^4.2.0:
   dependencies:
     find-up "^4.0.0"
 
-prettier@2.7.0:
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.7.0.tgz#a4fdae07e5596c51c9857ea676cd41a0163879d6"
-  integrity sha512-nwoX4GMFgxoPC6diHvSwmK/4yU8FFH3V8XWtLQrbj4IBsK2pkYhG4kf/ljF/haaZ/aii+wNJqISrCDPgxGWDVQ==
+prettier@2.7.1:
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.7.1.tgz#e235806850d057f97bb08368a4f7d899f7760c64"
+  integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
 
 pretty-format@^28.1.1:
   version "28.1.1"
@@ -2164,12 +2164,12 @@ pretty-format@^28.1.1:
     ansi-styles "^5.0.0"
     react-is "^18.0.0"
 
-prisma@3.16.0-dev.52:
-  version "3.16.0-dev.52"
-  resolved "https://registry.yarnpkg.com/prisma/-/prisma-3.16.0-dev.52.tgz#7f38a3e1a357913471a9d8b74c8bb35bb7911361"
-  integrity sha512-3nl/5aWjbUi2gC6mdiS5CEnCsOPaaNXMDCyOHu2goLkSILE59cf9miTOjad4RDhHTbFAg9dd4UJ1cLZfoNghfg==
+prisma@3.16.0-dev.88:
+  version "3.16.0-dev.88"
+  resolved "https://registry.yarnpkg.com/prisma/-/prisma-3.16.0-dev.88.tgz#a51c367b787102c3d639ae50eb1b808a2e70eac8"
+  integrity sha512-V9dFMOBPWihzZK1rocfk7P9q0jL8LS/VMKB+KI6LyeXgZAZsrFZO628o2DpYQ4sNsZcdnhYbsSQ/caxRqh24JQ==
   dependencies:
-    "@prisma/engines" "3.16.0-14.4908cf1dde73491641a0a47fe5f3bebd2430350c"
+    "@prisma/engines" "3.16.0-43.81a0ee489e5f8c8ce98440028ea9050092430503"
 
 prompts@^2.0.1:
   version "2.4.1"
