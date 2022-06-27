@@ -562,7 +562,8 @@ jobs:
 
       - uses: actions/setup-node@v3
         with:
-          node-version: 14
+          # Use v16 for sveltekit and `node-version` for the rest
+          node-version: ${{ matrix.framework == 'sveltekit' && '16' || matrix.node-version }}
 
       - name: Set test specific DATABASE_URL
         run: |
