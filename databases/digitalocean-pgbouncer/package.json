@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "prisma": "4.7.0-dev.16"
+    "prisma": "4.7.0-integration-engines-4-7-0-9-feat-error-req-idx-26e00ab332793084ea0280df387b126fb5e17eba.1"
   },
   "dependencies": {
-    "@prisma/client": "4.7.0-dev.16",
+    "@prisma/client": "4.7.0-integration-engines-4-7-0-9-feat-error-req-idx-26e00ab332793084ea0280df387b126fb5e17eba.1",
     "jest": "28.1.3"
   }
 }

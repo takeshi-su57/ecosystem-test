@@ -13,11 +13,15 @@
     ]
   },
   "dependencies": {
+    "@prisma/client": "4.7.0-integration-engines-4-7-0-9-feat-error-req-idx-26e00ab332793084ea0280df387b126fb5e17eba.1",
     "@redwoodjs/forms": "3.4.0",
     "@redwoodjs/router": "3.4.0",
     "@redwoodjs/web": "3.4.0",
     "prop-types": "15.8.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "prisma": "4.7.0-integration-engines-4-7-0-9-feat-error-req-idx-26e00ab332793084ea0280df387b126fb5e17eba.1"
   }
 }
